@@ -1,0 +1,227 @@
+
+#*查不到或不確定的字用藍色標
+
+#P92
+
+#家禽
+la volaille 家禽類
+le poulet 雞肉
+les filets de poulet 雞胸肉
+les cuisses de poulet 雞腿
+la dinde 火雞肉
+l’escalope de dinde 火雞胸肉
+le magret de canard 鴨胸肉
+le canard 鴨肉
+la pintade 珠雞
+la caille 鵪鶉
+
+#其他肉類
+le gibier 野味
+le sanglier 野豬肉
+le lapin 兔肉
+les escargots 蝸牛
+
+
+#海鮮
+les fruits de mer 海鮮
+le poisson 魚
+le thon 鮪魚
+le crabe 螃蟹
+le tourteau 黃道蟹
+la crevette 蝦子
+le saumon 鮭魚
+le caviar 魚子醬
+la sardine 沙丁魚
+la sole 比目魚
+
+#P93
+le colin 綠青鱈
+le lieu 青鱈
+le cabillaud 鱈魚
+la truite 鱒魚
+le hareng 鯡魚
+l’anchois （歐洲）鯷魚
+le bar 鱸魚
+l’anguille 鰻魚
+le calamar 魷魚、烏賊
+la seiche 墨魚
+la coquille Saint-Jacques 大扇貝
+
+#早餐
+les céréales 麥片
+le croissant 可頌麵包
+la confiture 果醬
+le café 咖啡
+le café au lait 咖啡牛奶（歐蕾）
+le chocolat chaud 熱巧克力
+
+#下午茶 / 點心
+le goûter 點心
+le gâteau 蛋糕
+les biscuits 餅乾
+les bonbons 糖果
+le chocolat 巧克力
+la tartine （塗有或供塗奶油等的）麵包片
+
+#P94
+#飲料
+la boisson 飲料
+l’eau minérale 礦泉水
+le cocktail de fruit 果汁飲料
+le jus de pomme 蘋果汁
+le jus d’orange 柳橙汁
+l’orange pressée avec pulpe 現榨果粒柳橙汁
+le soda 蘇打水
+le thé noir 紅茶
+le thé vert 綠茶
+la tisane 花草茶
+le thé glace 冰茶
+le coca-cola 可口可樂
+le coca light 無糖可樂
+le sirop 糖漿
+
+#酒類
+le vin rouge 紅酒
+le vin blanc 白酒
+le cognac 乾邑白蘭地
+le champagne 香檳
+l’armagnac 阿馬尼亞克燒酒
+le rhum 蘭姆酒
+le whisky 威士卡
+le vin rosé 玫瑰紅酒
+#猴子：Je vous ai apporté du vin.
+#猴子：Entrez.
+
+#P95
+#各式麵包
+la baguette 長棍麵包
+le pain au sésame 芝麻麵包
+le pain aux noix 核桃麵包3
+le pain aux flocons d’avoine 燕麥包
+le pain complet 全麥麵包
+le pain paysan 鄉村麵包
+le pain toast 吐司
+le petit pain 小法國麵包
+le pain viennois 維也納麵包
+le bretzel 蝴蝶脆餅、扭結餅
+la brioche 布裡歐修麵包
+
+#乳製品
+les produits laitiers 乳製品
+le lait 牛奶
+le beurre 奶油
+la crème 鮮奶油
+le fromage 乳酪
+le yaourt 優酪乳
+la crème glacée 霜淇淋
+
+#乳酪
+le brie 布利乳酪
+le camembert 卡門貝爾乳酪
+le cantal 康塔勒乳酪
+le comté 康堤乾酪
+l’emmental 愛摩塔乳酪
+le fromage de brebis 羊乳酪
+le fromage de chèvre 山羊乳酪
+le roquefort 羅克福藍紋山羊乳酪
+le fromage blanc 白色乳酪（新鮮乳酪）
+
+#調味料
+le sel 鹽
+le sucre 糖
+le poivre 胡椒
+l’ail 蒜頭
+le gingembre 薑
+les épices 香料
+les herbes 各式香草
+le basilic 羅勒
+la cannelle 肉桂
+le persil 歐芹
+la coriandre 香菜
+le cumin 孜然
+le curry 咖哩
+l’estragon 龍蒿
+le fenouil 茴香
+la feuille de laurier 月桂葉
+le romarin 迷迭香
+le thym 百里香
+le safran 番紅花
+
+#醬料
+la sauce 醬汁
+le vinaigre 醋
+le vinaigre balsamique 巴薩米可醋
+l’huile d’olive 橄欖油
+la mayonnaise 美乃滋
+la moutarde 芥末醬
+le wasabi 日式芥末醬
+le ketchup 蕃茄醬
+
+
+#P97
+
+#飲食方式
+le régime sans cholestérol 無膽固醇食譜
+le régime pauvre en sel 低鹽食譜
+le régime végétarien 素食食譜
+le végétalisme 純素食主義食譜
+
+#烹飪方式
+les modes de cuisson 烹飪方式
+couper 切
+émincer 切成薄片
+casser 敲碎外殼
+enlever 去籽、除去蒂頭
+éplucher 削皮
+peler 剝皮
+râper 磨成絲
+piler 搗碎
+mariner 醃泡
+saler 灑鹽、鹽漬
+poivrer 灑胡椒
+mélanger 混合
+battre 攪拌、攪打
+remuer 攪拌均勻、翻動
+blanchir 汆燙
+cuire à l’eau 水煮
+cuire à la vapeur 蒸煮
+cuire au bain-marie 隔水加熱
+braiser 悶煮
+mijoter 燉
+sauter 煎
+frire 炸
+préchauffer 預熱
+rôtir 烘烤
+griller 架烤、鐵板烤
+
+#P98
+#餐具
+les couverts 餐具
+l’assiette creuse 湯盤
+l’assiette plate 平盤
+la fourchette 叉
+le couteau 刀
+la cuillère 湯匙
+la cuillère à soupe 湯匙
+la cuillère à café 咖啡匙
+
+#廚房用品
+la bouilloire 熱水壺
+la cuisine 廚房
+le batteur électrique 電動攪拌器
+le four 烤箱
+la casserole 深鍋
+la poêle 平底鍋
+la spatule 鏟子、刮刀
+la friteuse 油炸機
+le gant de cuisine 廚房用手套
+le grille-pain 烤麵包機
+le micro-ondes 微波爐
+le mug 馬克杯
+le tire-bouchon 開瓶器
+le réfrigérateur 冰箱
+le frigo 冰箱
+la cafetière 咖啡機
+la théière 茶壺
+le sopalin 廚房用紙
+

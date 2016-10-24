@@ -1,0 +1,179 @@
+la volaille [la vɔlaj] 家禽類
+le poulet [lə pulε] 雞肉
+les filets de poulet [le filε də pulε] 雞胸肉
+les cuisses de poulet [le kɥis də pulε] 雞腿
+la dinde [la dɛ̃d] 火雞肉
+l’escalope de dinde [lεskalɔp də dɛ̃d] 火雞胸肉
+le magret de canard [lə magrε də kanar] 鴨胸肉
+le canard [lə kanar] 鴨肉
+la pintade [la pɛ̃tad] 珠雞
+la caille [la kaj] 鵪鶉
+le gibier [lə ʒibje] 野味
+le sanglier [lə sɑ̃glije] 野豬肉
+le lapin [lə lapɛ̃] 兔肉
+les escargots [!!ERR!! εskargo] 蝸牛
+les fruits de mer [!!ERR!! frɥi də mεr] 海鮮
+le poisson [lə pwasɔ̃] 魚
+le thon [lə tɔ̃] 鮪魚
+le crabe [lə krab] 螃蟹
+le tourteau [lə turto] 黃道蟹
+la crevette [la krəvεt] 蝦子
+le saumon [lə somɔ̃] 鮭魚
+le caviar [lə kavjar] 魚子醬
+la sardine [la sardin] 沙丁魚
+la sole [la sɔl] 比目魚
+le colin [lə kɔlɛ̃] 綠青鱈
+le lieu [lə ljø] 青鱈
+le cabillaud [lə kabijo] 鱈魚
+la truite [la trɥit] 鱒魚
+le hareng [lə arɑ̃] 鯡魚
+l’anchois [lɑ̃∫wa] （歐洲）鯷魚
+le bar [lə bar] 鱸魚
+l’anguille [lɑ̃gij] 鰻魚
+le calamar [lə kalamar] 魷魚、烏賊
+la seiche [la sε∫] 墨魚
+la coquille Saint-Jacques [la kɔkij sɛ̃ʒak] 大扇貝
+les céréales [lə sereal] 麥片
+le croissant [lə krwasɑ̃] 可頌麵包
+la confiture [la kɔ̃fityr] 果醬
+le café [lə kafe] 咖啡
+le café au lait [lə kafe o lε] 咖啡牛奶（歐蕾）
+le chocolat chaud [lə ∫ɔkɔla ∫o, -d] 熱巧克力
+le goûter [lə gute] 點心
+le gâteau [lə gɑto] 蛋糕
+les biscuits [lə biskɥi] 餅乾
+les bonbons [lə bɔ̃bɔ̃] 糖果
+le chocolat [lə ∫ɔkɔla] 巧克力
+la tartine [la tartin] （塗有或供塗奶油等的）麵包片
+la boisson [la bwasɔ̃] 飲料
+l’eau minérale [lo mineral] 礦泉水
+le cocktail de fruit [lə kɔktεl də frɥi] 果汁飲料
+le jus de pomme [lə ʒy də pɔm] 蘋果汁
+le jus d’orange [lə ʒy dɔrɑ̃ʒ] 柳橙汁
+l’orange pressée avec pulpe [lɔrɑ̃ʒ prεse avεk pylp] 現榨果粒柳橙汁
+le soda [lə sɔda] 蘇打水
+le thé noir [lə te nwar] 紅茶
+le thé vert [lə te vεr, -t] 綠茶
+la tisane [la tizan] 花草茶
+le thé glace [lə te glas] 冰茶
+le coca-cola [lə !!ERR!!] 可口可樂
+le coca light [lə kɔka !!ERR!!] 無糖可樂
+le sirop [lə siro] 糖漿
+le vin rouge [lə vɛ̃ ruʒ] 紅酒
+le vin blanc [lə vɛ̃ blɑ̃, -∫] 白酒
+le cognac [lə kɔɲak] 乾邑白蘭地
+le champagne [lə ∫ɑ̃paɲ] 香檳
+l’armagnac [larmaɲak] 阿馬尼亞克燒酒
+le rhum [lə rɔm] 蘭姆酒
+le whisky [lə wiski] 威士卡
+le vin rosé [lə vɛ̃ roze] 玫瑰紅酒
+la baguette [la bagεt] 長棍麵包
+le pain au sésame [lə pɛ̃ o sezam] 芝麻麵包
+le pain aux noix [lə pɛ̃ o nwa] 核桃麵包3
+le pain aux flocons d’avoine [lə pɛ̃ o flɔkɔ̃ davwan] 燕麥包
+le pain complet [lə pɛ̃ kɔ̃plε, -t] 全麥麵包
+le pain paysan [lə pɛ̃ peizɑ̃, -an] 鄉村麵包
+le pain toast [lə pɛ̃ tost] 吐司
+le petit pain [lə pəti, -t pɛ̃] 小法國麵包
+le pain viennois [lə pɛ̃ vjεnwa] 維也納麵包
+le bretzel [lə brεdzεl] 蝴蝶脆餅、扭結餅
+la brioche [la brijɔ∫] 布裡歐修麵包
+les produits laitiers [!!ERR!! prɔdɥi lεtje] 乳製品
+le lait [lə lε] 牛奶
+le beurre [lə bœr] 奶油
+la crème [la krεm] 鮮奶油
+le fromage [lə frɔma:ʒ] 乳酪
+le yaourt [lə jaurt] 優酪乳
+la crème glacée [la krεm glase] 霜淇淋
+le brie [lə bri] 布利乳酪
+le camembert [lə kamɑ̃bεr] 卡門貝爾乳酪
+le cantal [lə kɑ̃tal] 康塔勒乳酪
+le comté [lə kɔ̃te] 康堤乾酪
+l’emmental [l!!ERR!!] 愛摩塔乳酪
+le fromage de brebis [lə frɔma:ʒ də brəbi] 羊乳酪
+le fromage de chèvre  [lə frɔma:ʒ də ∫εvr] 山羊乳酪
+le roquefort [lə rɔkfɔr] 羅克福藍紋山羊乳酪
+le fromage blanc [lə frɔma:ʒ blɑ̃, -∫] 白色乳酪（新鮮乳酪）
+le sel [lə sεl] 鹽
+le sucre [lə sykr] 糖
+le poivre [lə pwavr] 胡椒
+l’ail [laj] 蒜頭
+le gingembre [lə ʒɛ̃ʒɑ̃br] 薑
+les épices [!!ERR!! epise] 香料
+les herbes [!!ERR!! εrbe] 各式香草
+le basilic [lə bazilik] 羅勒
+la cannelle [la kanεl] 肉桂
+le persil [lə pεrsi] 歐芹
+la coriandre [la kɔrjɑ̃dr] 香菜
+le cumin [lə kymɛ̃] 孜然
+le curry [lə kyri] 咖哩
+l’estragon [lεstragɔ̃] 龍蒿
+le fenouil [lə fənuj] 茴香
+la feuille de laurier [la fœj də lɔrje] 月桂葉
+le romarin [lə rɔmarɛ̃] 迷迭香
+le thym [lə tɛ̃] 百里香
+le safran [lə safrɑ̃] 番紅花
+la sauce [la sos] 醬汁
+le vinaigre [lə vinεgr] 醋
+le vinaigre balsamique [lə vinεgr balzamik] 巴薩米可醋
+l’huile d’olive [lɥil dɔliv] 橄欖油
+la mayonnaise [la majɔnεz] 美乃滋
+la moutarde [la mutard] 芥末醬
+le wasabi [lə !!ERR!!] 日式芥末醬
+le ketchup [lə kεt∫œp] 蕃茄醬
+le régime sans cholestérol [lə reʒim sɑ̃ kɔlεsterɔl] 無膽固醇食譜
+le régime pauvre en sel [lə reʒim povr ɑ̃ sεl] 低鹽食譜
+le régime végétarien [lə reʒim veʒetarjɛ̃, -εn] 素食食譜
+le végétalisme [lə veʒetalism] 純素食主義食譜
+les modes de cuisson [le mɔd də kɥisɔ̃] 烹飪方式
+couper [kupe] 切
+émincer [emɛ̃se] 切成薄片
+casser [kase] 敲碎外殼
+enlever [sɑ̃lve] 去籽、除去蒂頭
+éplucher [eply∫e] 削皮
+peler [pəle] 剝皮
+râper [rɑpe] 磨成絲
+piler [pile] 搗碎
+mariner [marine] 醃泡
+saler [sale] 灑鹽、鹽漬
+poivrer [pwavre] 灑胡椒
+mélanger [melɑ̃ʒe] 混合
+battre [batr] 攪拌、攪打
+remuer [rəmɥe] 攪拌均勻、翻動
+blanchir [blɑ̃∫ir] 汆燙
+cuire à l’eau [kɥir a lo] 水煮
+cuire à la vapeur [kɥir a la vapœr] 蒸煮
+cuire au bain-marie [kɥir o bɛ̃mari] 隔水加熱
+braiser [brεze] 悶煮
+mijoter [miʒɔte] 燉
+sauter [sote] 煎
+frire [frir] 炸
+préchauffer [pre∫ofe] 預熱
+rôtir [rɔtir, ro-] 烘烤
+griller [grije] 架烤、鐵板烤
+les couverts [le kuvεr, -t] 餐具
+l’assiette creuse [lasjεt !!ERR!!] 湯盤
+l’assiette plate [lasjεt plat] 平盤
+la fourchette [la fur∫εt] 叉
+le couteau [lə kuto] 刀
+la cuillère [la kчijɛ:r] 湯匙
+la cuillère à soupe [la kчijɛ:r a sup] 湯匙
+la cuillère à café [la kчijɛ:r a kafe] 咖啡匙
+la bouilloire [la bujwar] 熱水壺
+la cuisine [la kɥizin] 廚房
+le batteur électrique [lə batœr elεktrik] 電動攪拌器
+le four [lə fur] 烤箱
+la casserole [la kasrɔl] 深鍋
+la poêle [la pwal] 平底鍋
+la spatule [la spatyl] 鏟子、刮刀
+la friteuse [la fritøz] 油炸機
+le gant de cuisine [lə gɑ̃ də kɥizin] 廚房用手套
+le grille-pain [lə grijpɛ̃] 烤麵包機
+le micro-ondes [lə mikroɔ̃d] 微波爐
+le mug [lə !!ERR!!] 馬克杯
+le tire-bouchon [lə tirbu∫ɔ̃] 開瓶器
+le réfrigérateur [lə refriʒeratœr] 冰箱
+le frigo [lə frigo] 冰箱
+la cafetière [la kaftjεr] 咖啡機
+la théière [la tejεr] 茶壺
+le sopalin [lə !!ERR!!] 廚房用紙
